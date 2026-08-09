@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://almadenatourism-del.github.io/al-ewan-website2/sitemap.xml
